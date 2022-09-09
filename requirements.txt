@@ -1,0 +1,12 @@
+geopandas
+numpy
+rasterio
+matplotlib.pyplot
+osgeo
+shapely
+osgeo
+fiona
+pandas
+scipy.stats
+statistics
+seaborn
